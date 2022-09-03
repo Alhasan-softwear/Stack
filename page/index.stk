@@ -1,0 +1,91 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Air &mdash; Free Website Template, Free HTML5 Template by freehtml5.co</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Free HTML5 Website Template by freehtml5.co" />
+	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
+	<meta name="author" content="freehtml5.co" />
+
+	<!-- 
+	//////////////////////////////////////////////////////
+
+	FREE HTML5 TEMPLATE 
+	DESIGNED & DEVELOPED by FreeHTML5.co
+		
+	Website: 		http://freehtml5.co/
+	Email: 			info@freehtml5.co
+	Twitter: 		http://twitter.com/fh5co
+	Facebook: 		https://www.facebook.com/fh5co
+
+	//////////////////////////////////////////////////////
+	 -->
+
+
+
+	<!-- <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,700,800" rel="stylesheet">	 -->
+	<link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="animate">
+	<!-- Icomoon Icon Fonts-->
+
+
+<style><?php include('./assets/bootstrap.css')?></style>
+
+<style><?php include('./assets/style.css')?></style>
+
+
+	</head>
+	<body>
+	
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	
+	<div id="page">
+
+
+	<header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 text-center">
+					<div class="display-t js-fullheight">
+						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
+							<h1>Creativity Is A Wild Mind &amp; A Disciplined Eye</h1>
+							<h2>So use stack to build your creativity</h2>
+							<p><a class="btn btn-primary btn-lg btn-demo" href="https://github.com/Alhasan-softwear/Stack"></i> Github</a> <a class="btn btn-primary btn-lg btn-learn">Learn More</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+
+
+
+
+
+
+
+	
+
+
+
+	</div>
+
+	<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up22"></i></a>
+	</div>
+	
+
+
+	</body>
+</html>
+
